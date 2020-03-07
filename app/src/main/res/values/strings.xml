@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doctors</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading</string>
+    <string name="speciality">Speciality : </string>
+    <string name="address">Address : </string>
+    <string name="phone">Phone : </string>
+    <string name="about_doctor">About Doctor : </string>
+    <string name="info_text">Find a Doctor for any type of problem you are looking for: Eg (Toothache)</string>
+</resources>
